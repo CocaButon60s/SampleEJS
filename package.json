@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1",
-    "vite": "^5.0.2"
+    "vite": "^7.0.6"
   },
   "dependencies": {
     "bootstrap": "^5.3.7",
